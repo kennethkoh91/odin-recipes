@@ -1,0 +1,13 @@
+.Yellow {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: yellow;  
+    text-align: center; 
+}
+
+.link {
+    font: arial;
+    color:blueviolet;
+    font-size: medium;
+    font-weight: bold;
+}
