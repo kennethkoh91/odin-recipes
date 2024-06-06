@@ -1,3 +1,11 @@
+* {
+    margin: 10;
+    padding: 10;
+    border: 10;
+}
+
+
+
 .Yellow {
     font-family: 'Times New Roman', Times, serif;
     color: blue;
